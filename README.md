@@ -3,8 +3,8 @@
 
 
 #EXTM3U
-
-#EXTINF:-1 , tvg-logo="https://i.imgur.com/sQS33gE.jpg", Artaba Radio Listen2
+ 
+#EXTINF:-1 , tvg-id="Artaba Radio Listen2",tvg-logo="https://i.imgur.com/sQS33gE.jpg"
 http://78.129.185.84:39163
 
 #EXTINF:-1 , tvg-logo="https://i.imgur.com/sQS33gE.jpg", Artaba Radio Zenon
