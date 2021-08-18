@@ -4,10 +4,10 @@
 
 #EXTM3U
  
-#EXTINF:-1 , tvg-id="Artaba Radio Listen2",tvg-logo="https://i.imgur.com/sQS33gE.jpg"
+#EXTINF:-1 ,Artaba Radio Listen2
 http://78.129.185.84:39163
 
-#EXTINF:-1 , tvg-logo="https://i.imgur.com/sQS33gE.jpg", Artaba Radio Zenon
+#EXTINF:-1 ,Artaba Radio Zenon
 http://stream.zeno.fm/6dk3anpvmd0uv
 
 #EXTINF:-1 , TvMas CHILE
