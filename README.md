@@ -5,10 +5,10 @@
 #EXTM3U
  
 #EXTINF:-1 ,Artaba Radio Listen2
-http://78.129.185.84:39163
+http://78.129.229.122:5514
 
 #EXTINF:-1 ,Artaba Radio Zenon
-http://stream.zeno.fm/6dk3anpvmd0uv
+http://stream.zeno.fm/570xbgx6468uv 
 
 #EXTINF:-1 , TvMas CHILE
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
